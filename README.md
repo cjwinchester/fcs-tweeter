@@ -1,4 +1,4 @@
-Fort Calhoun Status Thing
+Fort Calhoun Status Getter
 ===========
 
 A python script that:
