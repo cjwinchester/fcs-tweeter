@@ -47,7 +47,7 @@ def send_email():
                 print "Failed!"
 
 # if plant dips below 100%, email me
-if fcs < 100:
+if int(fcs) < 100:
     send_email()
 
 # tweet current status
